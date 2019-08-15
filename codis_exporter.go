@@ -1,5 +1,4 @@
 package main
-
 import (
 	"crypto/subtle"
 	"flag"
